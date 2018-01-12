@@ -30,7 +30,9 @@ You can find the report [here](Report/nitinsan_project4.pdf).
 " target="_blank"><img src="http://img.youtube.com/vi/wtaY7I8zi4Q/0.jpg" 
 alt="Rotplot Video" width="240" height="180" border="10" /></a>
 
-![GMAP](Outputs/TrainSet0/GMAP_08_32_57.jpg)
+<img src="Outputs/TrainSet0/GMAP_08_32_57.jpg" width="48">
+
+<!--- ![GMAP](Outputs/TrainSet0/GMAP_08_32_57.jpg) -->
 ![OGColorMap](Outputs/TrainSet0/OGColorMapLogTest_08_32_57.png)
 ![3DMap](Outputs/TrainSet0/PC_08_32_57.png)
 
