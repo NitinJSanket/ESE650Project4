@@ -30,11 +30,9 @@ You can find the report [here](Report/nitinsan_project4.pdf).
 " target="_blank"><img src="http://img.youtube.com/vi/wtaY7I8zi4Q/0.jpg" 
 alt="Rotplot Video" width="240" height="180" border="10" /></a>
 
-<img src="Outputs/TrainSet0/GMAP_08_32_57.jpg" width="48">
-
-<!--- ![GMAP](Outputs/TrainSet0/GMAP_08_32_57.jpg) -->
-![OGColorMap](Outputs/TrainSet0/OGColorMapLogTest_08_32_57.png)
-![3DMap](Outputs/TrainSet0/PC_08_32_57.png)
+<img src="Outputs/TrainSet0/GMAP_08_32_57.jpg" width="480">
+<img src="Outputs/TrainSet0/OGColorMapLogTest_08_32_57.png" width="480">
+<img src="Outputs/TrainSet0/PC_08_32_57.jpg" width="480">
 
 ## References:
 1. Dellaert, Frank, et al. "Monte carlo localization for mobile robots." Robotics and Automation, 1999. Proceedings. 1999 IEEE International Conference on. Vol. 2. IEEE, 1999.
