@@ -23,14 +23,14 @@ TrainSet3: [1:5:300,350:50:900]
 TestSet  : [1:25:500,550:100:800,1050:10:1841]
 
 ## Report:
-You can find the report [here](Report/ESE650Project2.pdf).
+You can find the report [here](Report/nitinsan_project4.pdf).
 
 ## Sample Outputs:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wtaY7I8zi4Q
 " target="_blank"><img src="http://img.youtube.com/vi/wtaY7I8zi4Q/0.jpg" 
 alt="Rotplot Video" width="240" height="180" border="10" /></a>
 
-![GMAP](Outputs/TrainSet0/GMAP_08_32_57.png)
+![GMAP](Outputs/TrainSet0/GMAP_08_32_57.jpg)
 ![OGColorMap](Outputs/TrainSet0/OGColorMapLogTest_08_32_57.png)
 ![3DMap](Outputs/TrainSet0/PC_08_32_57.png)
 
